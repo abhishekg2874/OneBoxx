@@ -1,0 +1,79 @@
+@font-face{
+ font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/OpenSansRomanSemiBold.ttf");
+    font-family:"OpenSans";
+    font-weight:600;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/OpenSansRomanRegular.ttf");
+    font-family:"OpenSans";
+    font-weight:400;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/OpenSansRomanBold.ttf");
+    font-family:"OpenSans";
+    font-weight:700;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/InterRegular.ttf");
+    font-family:"Inter";
+    font-weight:400;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/DMSansBold.ttf");
+    font-family:"DMSans";
+    font-weight:700;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/DMSansMedium.ttf");
+    font-family:"DMSans";
+    font-weight:500;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/InterSemiBold.ttf");
+    font-family:"Inter";
+    font-weight:600;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/InterMedium.ttf");
+    font-family:"Inter";
+    font-weight:500;
+    }
+    @font-face{
+    font-display:swap;
+    font-style:normal;
+    src:url("/public/fonts/MontserratRomanMedium.ttf");
+    font-family:"Montserrat";
+    font-weight:500;
+    }
+    /* @font-face {
+      font-family: 'OpenSansRomanSemiBold';
+      src: url('../styles/font.css/OpenSansRomanBold') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'OpenSansRomanRegular';
+      src: url('../styles/font.css/OpenSansRomanRegular') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+     */
+    
+    

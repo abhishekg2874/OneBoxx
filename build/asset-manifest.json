@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e5f6313.css",
+    "main.js": "/static/js/main.d1a7040c.js",
+    "index.html": "/index.html",
+    "static/media/OpenSansRomanSemiBold.ttf": "/static/media/OpenSansRomanSemiBold.c14ac19b4f1a6ddee269.ttf",
+    "static/media/OpenSansRomanRegular.ttf": "/static/media/OpenSansRomanRegular.710b4872c1fee621abc6.ttf",
+    "static/media/DMSansBold.ttf": "/static/media/DMSansBold.31d6cfe0d16ae931b73c.ttf",
+    "static/media/DMSansMedium.ttf": "/static/media/DMSansMedium.31d6cfe0d16ae931b73c.ttf",
+    "static/media/InterMedium.ttf": "/static/media/InterMedium.31d6cfe0d16ae931b73c.ttf",
+    "static/media/InterRegular.ttf": "/static/media/InterRegular.31d6cfe0d16ae931b73c.ttf",
+    "static/media/InterSemiBold.ttf": "/static/media/InterSemiBold.31d6cfe0d16ae931b73c.ttf",
+    "static/media/MontserratRomanMedium.ttf": "/static/media/MontserratRomanMedium.31d6cfe0d16ae931b73c.ttf",
+    "static/media/OpenSansRomanBold.ttf": "/static/media/OpenSansRomanBold.31d6cfe0d16ae931b73c.ttf",
+    "main.2e5f6313.css.map": "/static/css/main.2e5f6313.css.map",
+    "main.d1a7040c.js.map": "/static/js/main.d1a7040c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5f6313.css",
+    "static/js/main.d1a7040c.js"
+  ]
+}
